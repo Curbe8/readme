@@ -3,9 +3,9 @@
 
 ### ⚡ Stats:
 
-> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yubisel&hide=contribs,prs,issues&show_icons=true&&title_color=8b72af&icon_color=8b72af&bg_color=222&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curbe8&hide=contribs,prs,issues&show_icons=true&&title_color=8b72af&icon_color=8b72af&bg_color=222&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubisel&layout=compact&title_color=8b72af&icon_color=8b72af&bg_color=222&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curbe8&layout=compact&title_color=8b72af&icon_color=8b72af&bg_color=222&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
