@@ -15,8 +15,15 @@ I like programming in its entirety, that is, not only do I like to program but I
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curbe8&layout=compact&title_color=DB3D13&icon_color=DB3D13&bg_color=222&text_color=eee&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Help me with my personal projects as a referral
-
+      
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=f298b8ffab67&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
+#### Or send me a Coffee
+
+[<img src="https://user-images.githubusercontent.com/31408207/165632621-6c730b7c-eecc-4423-94bd-91038753c543.png" data-canonical-src="https://user-images.githubusercontent.com/31408207/165632621-6c730b7c-eecc-4423-94bd-91038753c543.png" width="50" height="50" />](https://ko-fi.com/curbe8)
 
 ##### Thanks for reading!
+
+<div align="right">
+  <img src="https://smallcounter.com/count.php?c_style=6&id=8815" data-canonical-src="https://smallcounter.com/count.php?c_style=6&id=8815" />
+</div>
