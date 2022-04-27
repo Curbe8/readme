@@ -24,4 +24,6 @@ I like programming in its entirety, that is, not only do I like to program but I
 
 ##### Thanks for reading!
 
-![Hit counter](https://smallcounter.com/count.php?c_style=6&id=8815)
+<div align="right">
+  <img src="https://smallcounter.com/count.php?c_style=6&id=8815" data-canonical-src="https://smallcounter.com/count.php?c_style=6&id=8815" />
+</div>
