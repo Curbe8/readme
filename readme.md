@@ -9,6 +9,8 @@ I like programming in its entirety, that is, not only do I like to program but I
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curbe8&show_icons=true&&title_color=DB3D13&icon_color=DB3D13&bg_color=222&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Curbe8&border_radius=&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 ### Languages
 -----
 
