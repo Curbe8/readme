@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Leandro (🇺🇾), I am 25 years old and I have been in the field of custom software development since 2018. My taste for computing comes from my childhood, particularly my taste for programming arose at the beginning of my studies in the Computer Technologist career
+My name is Leandro (🇺🇾), I am 27 years old and I have been in the field of custom software development since 2018. My taste for computing comes from my childhood, particularly my taste for programming arose at the beginning of my studies in the Computer Technologist career
 
 I like programming in its entirety, that is, not only do I like to program but I like to know the why of things and how they work at a lower level. Whenever I can I like to learn new technologies and keep abreast of updates that I already know. [My website](http://leandrocurbelo.uy)
 
