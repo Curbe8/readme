@@ -4,10 +4,6 @@ My name is Leandro (🇺🇾), I am 28 years old and I have been in the field of
 
 I like programming in its entirety, that is, not only do I like to program but I like to know the why of things and how they work at a lower level. Whenever I can I like to learn new technologies and keep abreast of updates that I already know. [My website](http://leandrocurbelo.uy)
 
-### Stats
------
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Curbe8&theme=dark)](https://git.io/streak-stats)
-
 ### Languages
 -----
 
